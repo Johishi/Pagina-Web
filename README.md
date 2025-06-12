@@ -44,7 +44,7 @@
     </style>
 </head>
 <body class="antialiased">
-<!-- Header -->
+    <!-- Header -->
     <header class="bg-light-navy shadow-md sticky top-0 z-50">
         <div class="container mx-auto px-6 py-4 flex justify-between items-center">
             <div class="flex items-center">
@@ -73,7 +73,7 @@
             <a href="#contacto" class="block text-lightest-slate hover-text-primary-blue px-4 py-2 text-sm">Contacto</a>
         </div>
     </header>
-<!-- Hero Section -->
+    <!-- Hero Section -->
     <section id="inicio" class="section-padding bg-cover bg-center" style="background-image: url('https://placehold.co/1920x1080/0A192F/112240?text=Fondo+Abstracto');">
         <div class="container mx-auto px-6 text-center">
             <h1 class="text-4xl md:text-6xl font-bold text-logo-main mb-4">Joan Sebastian Escobar Rojas</h1>
@@ -83,7 +83,7 @@
             <p class="mt-4 text-xl font-bold text-primary-blue">"IMPROVE YOUR PROCESS"</p>
         </div>
     </section>
-<!-- Sobre Mí Section -->
+    <!-- Sobre Mí Section -->
     <section id="sobre-mi" class="section-padding">
         <div class="container mx-auto px-6">
             <h2 class="text-3xl font-bold text-center text-primary-blue mb-12">Sobre Mí</h2>
@@ -118,7 +118,7 @@
             </div>
         </div>
     </section>
-<!-- Servicios Section -->
+    <!-- Servicios Section -->
     <section id="servicios" class="section-padding bg-light-navy">
         <div class="container mx-auto px-6">
             <h2 class="text-3xl font-bold text-center text-primary-blue mb-12">Mis Servicios</h2>
@@ -159,7 +159,7 @@
             </p>
         </div>
     </section>
-<!-- Contacto Section -->
+    <!-- Contacto Section -->
     <section id="contacto" class="section-padding">
         <div class="container mx-auto px-6">
             <h2 class="text-3xl font-bold text-center text-primary-blue mb-12">Contacto</h2>
@@ -198,7 +198,7 @@
             </div>
         </div>
     </section>
-<!-- Footer -->
+    <!-- Footer -->
     <footer class="bg-light-navy py-8 text-center">
         <div class="container mx-auto px-6">
             <!-- Reemplaza 'URL_DE_TU_LOGO.png' con la URL real de tu imagen de logo -->
